@@ -782,3 +782,30 @@ java.lang.Exception: Resource '/Swapping2Numbers/src/Main.java' does not exist.
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:14:07.421
 !MESSAGE executing callback sts4.classpath.fYtEsoyy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:46:09.644
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:46:09.644
+!MESSAGE buffering callback sts4.classpath.fYtEsoyy Swapping2Values true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:46:09.645
+!MESSAGE executing callback sts4.classpath.fYtEsoyy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:46:09.649
+!MESSAGE executing callback sts4.classpath.fYtEsoyy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:48:01.314
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:48:01.315
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:48:01.315
+!MESSAGE buffering callback sts4.classpath.fYtEsoyy JavaProgramming false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:48:01.316
+!MESSAGE executing callback sts4.classpath.fYtEsoyy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-05 22:48:01.321
+!MESSAGE executing callback sts4.classpath.fYtEsoyy SUCCESS [done]
